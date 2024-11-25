@@ -9,7 +9,6 @@ How to Play
 Controls
 Move Paddle: Press A to move left and D to move right.
 Launch Ball: The ball automatically launches at the start of the game or after respawning.
-Pause Game: Press Esc to pause the game.
 Power-Ups
 Three unique power-ups can appear while destroying bricks, each providing strategic advantages:
 
